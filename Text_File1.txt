@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 First txt
+=======
+First txt b2
+>>>>>>> branch2
